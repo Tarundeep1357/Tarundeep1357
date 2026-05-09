@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tarun
+# Hi 👋, I'm Tarundeep Singh
 
 🎓 BCA Student | Aspiring Machine Learning Engineer
 💻 Passionate about AI, Web Development & Problem Solving
