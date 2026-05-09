@@ -7,10 +7,15 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Web Development & Machine Learning**
-* 🤖 Exploring **AI, NLP, and Deep Learning**
-* 💡 Interested in building real-world projects
-* 🎯 Goal: Become a **Machine Learning Engineer**
+- 🎓 BCA Student passionate about Artificial Intelligence & Software Engineering  
+- 🤖 Focused on becoming an AI Engineer with strong problem-solving and development skills  
+- 🧠 Currently learning Machine Learning, Deep Learning, NLP, and AI Engineering  
+- ⚡ Building real-world AI applications using Python, FastAPI, PyTorch, and React  
+- 📊 Interested in LLMs, RAG systems, Computer Vision, and AI-powered products  
+- 💻 Practicing Data Structures & Algorithms to strengthen core engineering skills  
+- 🛠️ Exploring scalable backend development, APIs, Docker, and deployment workflows  
+- 📚 Continuously improving through projects, open-source learning, and hands-on development  
+- 🎯 Goal: Build impactful AI products and work as an AI Engineer in top product-based companies
 
 
 # 💻 Tech Stack:
