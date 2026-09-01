@@ -18,8 +18,8 @@
 - 🎯 Goal: Build impactful AI products and work as an AI Engineer in top product-based companies
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode 2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode 2.svg" />
   <img alt="Tarundeep1357's GitHub profile" src="dark_mode.svg" />
 </picture>
 
