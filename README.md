@@ -1,21 +1,67 @@
-# Hi 👋, I'm Tarundeep Singh
+# Hi, I'm Tarundeep Singh 👋
 
-🎓 BCA Student | Aspiring Machine Learning Engineer
-💻 Passionate about AI, Web Development & Problem Solving
+### BCA Student | Applied AI/ML & Software Engineering
 
----
+I build practical AI/ML and software-engineering projects using Python, PyTorch, scikit-learn, FastAPI, React, SQL, Docker, and Git.
 
-## 🚀 About Me
+My work focuses on machine-learning applications, model-serving systems, backend APIs, and full-stack products.
 
-- 🎓 BCA Student passionate about Artificial Intelligence & Software Engineering  
-- 🤖 Focused on becoming an AI Engineer with strong problem-solving and development skills  
-- 🧠 Currently learning Machine Learning, Deep Learning, NLP, and AI Engineering  
-- ⚡ Building real-world AI applications using Python, FastAPI, PyTorch, and React  
-- 📊 Interested in LLMs, RAG systems, Computer Vision, and AI-powered products  
-- 💻 Practicing Data Structures & Algorithms to strengthen core engineering skills  
-- 🛠️ Exploring scalable backend development, APIs, Docker, and deployment workflows  
-- 📚 Continuously improving through projects, open-source learning, and hands-on development  
-- 🎯 Goal: Build impactful AI products and work as an AI Engineer in top product-based companies
+## Featured Projects
+
+### Distributed AI Inference Cloud
+
+A Python-based distributed AI inference platform exploring model serving, worker scheduling, fault tolerance, model management, and observability.
+
+[View repository](https://github.com/Tarundeep1357/distributed-ai-inference-cloud)
+
+### Student Marks Prediction ML
+
+A machine-learning application that predicts student final marks using academic data, built with Python, scikit-learn, and Streamlit.
+
+[View repository](https://github.com/Tarundeep1357/Student-Marks-Prediction-ML)
+
+### SkillConnect
+
+A full-stack placement and professional networking platform for students, recruiters, and administrators.
+
+[View repository](https://github.com/Tarundeep1357/SkillConnect)
+
+## Technical Skills
+
+- Python
+- PyTorch
+- scikit-learn
+- FastAPI
+- React
+- SQL
+- Docker
+- Git
+- Pandas
+- NumPy
+- Streamlit
+- Machine Learning
+- Backend Development
+- Full-Stack Development
+
+## Leadership
+
+### Campus Mantri — GeeksforGeeks
+
+I support technical learning, developer events, and student engagement through the GeeksforGeeks campus community.
+
+## Currently Focusing On
+
+- Machine learning systems
+- Model serving and inference
+- Backend APIs
+- Data structures and algorithms
+- Testing and deployment
+- GenAI and RAG systems
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/tarundeep-singh-45384137b/
+- GitHub: https://github.com/Tarundeep1357
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode 2.svg" />
