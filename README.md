@@ -14,6 +14,9 @@ A Python-based distributed AI inference platform exploring model serving, worker
 
 [View repository](https://github.com/Tarundeep1357/distributed-ai-inference-cloud)
 
+> 🚧 Status: Work in Progress  
+> I am actively developing this project to learn and implement distributed AI inference, model serving, worker scheduling, fault tolerance, model management, and observability.
+
 ### Student Marks Prediction ML
 
 A machine-learning application that predicts student final marks using academic data, built with Python, scikit-learn, and Streamlit.
